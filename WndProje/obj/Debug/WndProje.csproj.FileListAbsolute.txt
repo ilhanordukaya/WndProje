@@ -1,0 +1,13 @@
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.Properties.Resources.resources
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.csproj.GenerateResource.cache
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\source\repos\WndProje\WndProje\bin\Debug\WndProje.exe.config
+C:\Users\ilhan\source\repos\WndProje\WndProje\bin\Debug\WndProje.exe
+C:\Users\ilhan\source\repos\WndProje\WndProje\bin\Debug\WndProje.pdb
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.exe
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.pdb
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.Form1.resources
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.FormGecis.resources
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.FormSecenek.resources
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.FormSube.resources
+C:\Users\ilhan\source\repos\WndProje\WndProje\obj\Debug\WndProje.csproj.AssemblyReference.cache
